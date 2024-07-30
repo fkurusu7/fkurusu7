@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Fernando
 
 <!--
 **fkurusu7/fkurusu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Software Enginner sharing about my journey and learnings in tech (Web Dev)
+- 🌱 Studied Computer Science
+- 👯 Currently learning JavaScript, CSS, React
+
+[![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkurusu7)](https://github.com/anuraghazra/github-readme-stats)
