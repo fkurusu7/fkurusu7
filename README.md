@@ -1,11 +1,9 @@
-# Hi, I'm Fernando<br><br>
+# Hi, I'm Fernando<br>
 
 <!--<br>**fkurusu7/fkurusu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br>--><br><br>
-
 🔭 Software Enginner sharing about my journey and learnings in tech (Web Dev)<br/>
 🌱 Studied Computer Science<br/>
 👯 Currently learning JavaScript, CSS, React<br/>
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douzez) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/fercuva)
